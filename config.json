@@ -59,9 +59,9 @@
     "log-file": null,
      "pools": [
         {
-            "algo": "rx/0",
+            "algo": "rx/arq",
             "coin": null,
-            "url": "xmr-us-east1.nanopool.org:14433",
+            "url": "arqma.herominers.com:10641",
             "user": "aRi1cDd6LkAcc1p6W58dkPi8xSfbZ5EuYFrHxwH3py1MQ9rFrzmSaghguD4GGpCfHSMmKXWJrd4e5CkabC3viWJKfHuDTK7DxPx8CGbS41fEQ",
             "pass": "x",
             "rig-id": null,
