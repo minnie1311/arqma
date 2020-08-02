@@ -62,7 +62,7 @@
             "algo": "rx/arq",
             "coin": null,
             "url": "arqma.herominers.com:10641",
-            "user": "aRi1cDd6LkAcc1p6W58dkPi8xSfbZ5EuYFrHxwH3py1MQ9rFrzmSaghguD4GGpCfHSMmKXWJrd4e5CkabC3viWJKfHuDTK7DxPx8CGbS41fEQ",
+            "user": "solo:aRi1cDd6LkAcc1p6W58dkPi8xSfbZ5EuYFrHxwH3py1MQ9rFrzmSaghguD4GGpCfHSMmKXWJrd4e5CkabC3viWJKfHuDTK7DxPx8CGbS41fEQ",
             "pass": "x",
             "rig-id": null,
             "keepalive": false,
